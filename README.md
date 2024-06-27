@@ -1,4 +1,4 @@
-# vectorization_experiments
+# Vectorization Experiments
 Experiments with informal benchmarking of vectorization libs such as pandas, polars, pytorch, tensorflow and others.
 
 ## Motivation
