@@ -1,0 +1,18 @@
+#cupy
+#cudf
+dask
+dask-expr
+dask[dataframe]
+duckdb
+ibis-framework
+jax
+numba
+#numexpr
+numpy
+pandas
+polars
+pyarrow
+tensorflow
+#torch install per https://pytorch.org/get-started/locally/
+#vaex
+xarray
